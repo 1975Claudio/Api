@@ -40,5 +40,4 @@ O sistema é composto por **quatro agentes** que trabalham em sequência:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
-   cd seu-repositorio
+   git clone https://github.com/1975Claudio/Api/blob/main/Imers%C3%A3o_IA_Alura_Projeto_Agentes_Advocacia.ipynb
